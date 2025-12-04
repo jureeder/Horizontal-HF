@@ -1,0 +1,10 @@
+This directory includes the following files:
+
+PVC_18_21_24.m
+MATLAB code to plot E-Field for the three measured frequencies.
+
+PVC_18_Antenna.xlsx	PVC_21_Antenna.xlsx	PVC_24_Antenna.xlsx
+Data collected using Lumiloop probe for three frequencies.
+
+Freq18PVC.fig	Freq21PVC.fig	Freq24PVC.fig
+E-field plots for all three frequencies from MATLAB code.
