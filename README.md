@@ -1,2 +1,12 @@
 # Horizontal-HF
 Horizontal HF Capstone Design Project at Oklahoma State University in Fall 2025
+
+
+All files for Horizontal HF Fall 2025 are included in Horizontal HF - FA25 directory.
+
+CDR – Includes files associated with Critical Design Review
+PDR – Includes files associated with Preliminary Design Review
+SOP -- Includes files associated with Standard Operating Procedures
+Videos – Includes all videos associated with project
+MATLAB Files – All collected data and MATLAB code written for plotting and analysis
+<img width="468" height="200" alt="image" src="https://github.com/user-attachments/assets/af310b40-952a-4973-8614-823382606259" />
