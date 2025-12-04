@@ -1,0 +1,10 @@
+This directory includes the following files:
+
+actual_narrowband_antenna.m
+MATLAB code to plot E-Field for the two measured frequencies.
+
+freq21.xlsx	freq24.xlsx
+Data collected using Lumiloop probe for two frequencies.
+
+whywemoved.xlsx
+Data demonstrating why measurements could not be taken equidistant from feed.
