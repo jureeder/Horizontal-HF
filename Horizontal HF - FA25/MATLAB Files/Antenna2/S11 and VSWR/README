@@ -1,0 +1,14 @@
+This directory includes the following files:
+
+PVC1.m
+MATLAB code to plot S11 and VSWR with desired military frequencies and ham radio bands overlaid. 
+
+PVC1.s1p	PVC2.s1p	PVC3.s1p	PVC4.s1p
+Various FieldFox measurements during tuning process.
+
+PVC18.s1p
+FieldFox measurement after tuning for 18MHz.
+
+PVC24.s1p
+FieldFox measurement after tuning for 24MHz.
+
