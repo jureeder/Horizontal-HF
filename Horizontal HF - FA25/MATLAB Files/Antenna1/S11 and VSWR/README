@@ -1,1 +1,8 @@
+This directory includes the following files:
+
+REAL_ANT.s1p 	REAL_ANT.m
+.s1p file from FieldFox and MATLAB code to plot S11 and VSWR with desired military frequencies and ham radio bands overlaid. From setting up antenna for first time.
+
+EXPO.s1p 	EXPO.m
+.s1p file from FieldFox and MATLAB code to plot S11 and VSWR with desired military frequencies and ham radio bands overlaid. From setting up antenna at expo.
 
