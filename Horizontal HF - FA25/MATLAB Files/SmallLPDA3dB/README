@@ -1,0 +1,14 @@
+To begin the data collection process, a small pre-fabricated LPDA (SAS-510-2) was used to verify the efficacy of testing procedures. This directory includes the following files associated with it:
+
+Lpda_pattern.csv 
+Recorded received power (distance sweep and Azimuth plots) for -20dBm transmit power for 2GHz, 446MHz, and 290MHz.
+
+SmallLPDAPlots.m
+MATLAB code to plot data from .csv file.
+
+distancesweeps.eps
+Shows -3dB crossing point for each frequency (from .m file).
+
+3dB.eps
+Shows 3dB beamwidth Azimuth plot for each frequency (from .m file).
+
