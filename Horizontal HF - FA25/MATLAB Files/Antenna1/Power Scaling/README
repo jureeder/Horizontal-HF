@@ -1,0 +1,7 @@
+This directory includes the following files:
+
+PowerScaling.m 	REAL_ANT.s1p
+Calculations for recommended transmit power based on measurements from first antenna.
+
+Recommended_Transmit_Power.pdf
+Document outlining recommended transmit power derivation.
