@@ -1,0 +1,7 @@
+To begin the data collection process, a small pre-fabricated LPDA (SAS-510-2) was used to verify the efficacy of testing procedures. This directory includes the following files associated with it:
+
+Small_LPDA_3GHz.xlsx	Small_LPDA_EField.xlsx
+Data collected by Lumiloop Probe at 290MHz and 2GHz.
+
+Small_LPDA_3dB_Efield.m
+Plotting 3dB EField over appropriate dimensions for 290MHz and 2GHz.
